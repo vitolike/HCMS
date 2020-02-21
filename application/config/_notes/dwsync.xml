@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="autoload.php" server="192.168.17.128" local="131500954810000000" remote="131500954800000000" Dst="1" />
+<file name="config.php" server="192.168.17.128" local="131526713869513213" remote="131526713400000000" Dst="2" />
+<file name="constants.php" server="192.168.17.128" local="131344986680000000" remote="131507669400000000" Dst="1" />
+<file name="database.php" server="192.168.17.128" local="131524978851755899" remote="131524978800000000" Dst="1" />
+<file name="doctypes.php" server="192.168.17.128" local="131344986680000000" remote="131507669400000000" Dst="1" />
+<file name="foreign_chars.php" server="192.168.17.128" local="131344986680000000" remote="131507669400000000" Dst="1" />
+<file name="hooks.php" server="192.168.17.128" local="131344986680000000" remote="131507669400000000" Dst="1" />
+<file name="index.html" server="192.168.17.128" local="131344986680000000" remote="131507669400000000" Dst="1" />
+<file name="memcached.php" server="192.168.17.128" local="131344986680000000" remote="131507669400000000" Dst="1" />
+<file name="migration.php" server="192.168.17.128" local="131344986680000000" remote="131507669400000000" Dst="1" />
+<file name="mimes.php" server="192.168.17.128" local="131344986680000000" remote="131507669400000000" Dst="1" />
+<file name="profiler.php" server="192.168.17.128" local="131344986680000000" remote="131507669400000000" Dst="1" />
+<file name="routes.php" server="192.168.17.128" local="131500930300230202" remote="131500930200000000" Dst="1" />
+<file name="smileys.php" server="192.168.17.128" local="131344986680000000" remote="131507669400000000" Dst="1" />
+<file name="user_agents.php" server="192.168.17.128" local="131344986680000000" remote="131507669400000000" Dst="1" />
+<file name="config.php" server="192.168.17.129" local="131527626096772843" remote="131537160600000000" Dst="2" />
+<file name="autoload.php" server="192.168.17.129" local="131500954810000000" remote="131537160600000000" Dst="2" />
+<file name="constants.php" server="192.168.17.129" local="131344986680000000" remote="131537160600000000" Dst="2" />
+<file name="database.php" server="192.168.17.129" local="131524978851755899" remote="131537160600000000" Dst="2" />
+<file name="doctypes.php" server="192.168.17.129" local="131344986680000000" remote="131537160600000000" Dst="2" />
+<file name="foreign_chars.php" server="192.168.17.129" local="131344986680000000" remote="131537160600000000" Dst="2" />
+<file name="hooks.php" server="192.168.17.129" local="131344986680000000" remote="131537160600000000" Dst="2" />
+<file name="index.html" server="192.168.17.129" local="131344986680000000" remote="131537160600000000" Dst="2" />
+<file name="memcached.php" server="192.168.17.129" local="131344986680000000" remote="131537160600000000" Dst="2" />
+<file name="migration.php" server="192.168.17.129" local="131344986680000000" remote="131537160600000000" Dst="2" />
+<file name="mimes.php" server="192.168.17.129" local="131344986680000000" remote="131537160600000000" Dst="2" />
+<file name="profiler.php" server="192.168.17.129" local="131344986680000000" remote="131537160600000000" Dst="2" />
+<file name="routes.php" server="192.168.17.129" local="131500930300230202" remote="131537160600000000" Dst="2" />
+<file name="smileys.php" server="192.168.17.129" local="131344986680000000" remote="131537160600000000" Dst="2" />
+<file name="user_agents.php" server="192.168.17.129" local="131344986680000000" remote="131537160600000000" Dst="2" />
+</dwsync>
